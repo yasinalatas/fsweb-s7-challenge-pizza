@@ -90,7 +90,7 @@ Gerekli öğelerinizi bitirdikten sonra çalışmanızı daha da ileri götüreb
 - [ ] Form öğesi bölümlerini iç içe routelara dönüştürün
 - [ ] Cypressle daha çok test yazın
 - [ ] Sipariş POST edilirken bir ağ hatası olasılığı için kullanıcı arabirimi oluşturun (örnek: İnternet'e bağlanılamadı)
-- [ ] Sipariş butonuna `Tebrikler! Pizza'nız yola çıktı` mesajını gösterecek ve veritabanına eklenen siparişin detaylarını gösterecek bir işlevsellik ekleyin.
+- [ ] Sipariş butonuna `Tebrikler! Siparişiniz Alındı!` mesajını gösterecek ve veritabanına eklenen siparişin detaylarını gösterecek bir işlevsellik ekleyin.
 - [ ] Aşağıdaki görsellere göre sayfaları sırasıyla iyileştirin. Önceliklendirme çok önemli. İlk önce sipariş, sonra Sipariş Formu, en son da Anasayfadaki diğer yardımcı görselleri ekleyebilirsiniz.
 
 #### Esnek Tasarım İyileştirmeleri
